@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">🎮 Hey, I'm Berat</h1>
 
-<!--
-**Zirael101/Zirael101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Im a highschool student and I want improve myself on computer 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Game+Developer;Blender+Artist;3D+Environment+Designer;Always+Building+Something+Cool" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🕹️ About Me
+
+- Developing games and interactive experiences
+- Creating 3D models and scenes with Blender
+- Learning new technologies every day
+
+---
+
+## Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,blender,git,github,vscode" />
+</p>
+
+---
+
+
+## Favorite Quote
+
+> "Be a voice, not an echo."
+
+---
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
